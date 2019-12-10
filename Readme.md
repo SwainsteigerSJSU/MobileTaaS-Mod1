@@ -1,4 +1,4 @@
-# Spring Boot React OAuth2 Social Login Demo
+# MobileTaaS Mod 1
 
 ![App Screenshot](screenshot.png)
 
